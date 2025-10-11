@@ -1,5 +1,5 @@
 # EigenCluster-Tokenization-for-Financial-Transformers
-This code repository provides the implementation of EigenCluster Tokenization methodology as presented in the paper:    "EigenCluster Tokenization for Financial Transformers: Bullish Signal Prediction"
+This code repository provides the implementation of EigenCluster Tokenization methodology as presented in the paper:    "Learn Bullish Moves via EigenCluster Tokens"
 # Financial Time Series Dataset Download
 
 ## Required Data Files
